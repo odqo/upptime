@@ -5,12 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: odqo
+    url: https://www.odqo.ch
+  - name: lafabriquecirculaire.ch
+    url: https://www.lafabriquecirculaire.ch
+  - name: fromagerieamstutz.ch
+    url: https://www.fromagerieamstutz.ch
+  - name: acade-agro.ch
+    url: https://www.acade-agro.ch
+  - name: art-werk.ch
+    url: https://www.art-werk.ch
+  - name: urbamonde.org
+    url: https://www.urbamonde.org
+  - name: co-habitat.net
+    url: https://www.co-habitat.net
+  - name: CoHabitat.io
+    url: https://www.cohabitat.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
