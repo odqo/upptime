@@ -40,9 +40,9 @@
     "url": "https://www.lafabriquecirculaire.ch",
     "icon": "https://favicons.githubusercontent.com/www.lafabriquecirculaire.ch",
     "slug": "lafabriquecirculaire-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1347,
     "timeMonth": 1339,
     "timeYear": 1339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "fromagerieamstutz.ch",
