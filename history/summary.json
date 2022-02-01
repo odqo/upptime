@@ -96,19 +96,19 @@
     "url": "https://www.art-werk.ch",
     "icon": "https://favicons.githubusercontent.com/www.art-werk.ch",
     "slug": "art-werk-ch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 1033,
-    "timeWeek": 968,
-    "timeMonth": 951,
-    "timeYear": 951,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 952,
+    "timeDay": 1009,
+    "timeWeek": 970,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2022-02-01": 0
+      "2022-02-01": 9
     }
   },
   {
