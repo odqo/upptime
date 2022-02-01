@@ -96,9 +96,9 @@
     "url": "https://www.art-werk.ch",
     "icon": "https://favicons.githubusercontent.com/www.art-werk.ch",
     "slug": "art-werk-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 968,
     "timeMonth": 951,
     "timeYear": 951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-01": 0
+    }
   },
   {
     "name": "urbamonde.org",
