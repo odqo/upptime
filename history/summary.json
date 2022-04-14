@@ -40,18 +40,19 @@
     "url": "https://www.lafabriquecirculaire.ch",
     "icon": "https://favicons.githubusercontent.com/www.lafabriquecirculaire.ch",
     "slug": "lafabriquecirculaire-ch",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 1450,
     "timeDay": 1379,
     "timeWeek": 1446,
     "timeMonth": 1457,
     "timeYear": 1450,
     "dailyMinutesDown": {
+      "2022-04-14": 2,
       "2022-01-27": 32
     }
   },
@@ -60,10 +61,10 @@
     "url": "https://www.fromagerieamstutz.ch",
     "icon": "https://favicons.githubusercontent.com/www.fromagerieamstutz.ch",
     "slug": "fromagerieamstutz-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1252,
@@ -72,6 +73,7 @@
     "timeMonth": 1280,
     "timeYear": 1252,
     "dailyMinutesDown": {
+      "2022-04-14": 2,
       "2022-02-08": 86
     }
   },
@@ -80,10 +82,10 @@
     "url": "https://www.acade-agro.ch",
     "icon": "https://favicons.githubusercontent.com/www.acade-agro.ch",
     "slug": "acade-agro-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 967,
@@ -91,7 +93,9 @@
     "timeWeek": 934,
     "timeMonth": 983,
     "timeYear": 967,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "Co-lab Research",
@@ -116,10 +120,10 @@
     "url": "https://www.art-werk.ch",
     "icon": "https://favicons.githubusercontent.com/www.art-werk.ch",
     "slug": "art-werk-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1040,
@@ -127,7 +131,9 @@
     "timeWeek": 1008,
     "timeMonth": 1059,
     "timeYear": 1040,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "urbamonde.org",
@@ -154,18 +160,19 @@
     "url": "https://www.habitat-solidaire.ch/",
     "icon": "https://favicons.githubusercontent.com/www.habitat-solidaire.ch",
     "slug": "habitat-solidaire-ch",
-    "status": "up",
-    "uptime": "91.38%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.44%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.38%",
+    "uptimeYear": "91.44%",
     "time": 1076,
     "timeDay": 1009,
     "timeWeek": 1016,
     "timeMonth": 1027,
     "timeYear": 1076,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-02-24": 1104,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
