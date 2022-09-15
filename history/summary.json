@@ -22,9 +22,9 @@
     "url": "https://www.odqo.ch",
     "icon": "https://favicons.githubusercontent.com/www.odqo.ch",
     "slug": "odqo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 275,
     "timeMonth": 320,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "lafabriquecirculaire.ch",
@@ -121,9 +123,9 @@
     "url": "https://mapping.co-lab-research.net/",
     "icon": "https://favicons.githubusercontent.com/mapping.co-lab-research.net",
     "slug": "co-lab-research",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,7 +134,9 @@
     "timeWeek": 162,
     "timeMonth": 148,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "art-werk.ch",
@@ -166,9 +170,9 @@
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.22%",
     "time": 757,
-    "timeDay": 751,
-    "timeWeek": 713,
-    "timeMonth": 754,
+    "timeDay": 795,
+    "timeWeek": 700,
+    "timeMonth": 752,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2022-09-15": 21,
@@ -252,9 +256,9 @@
     "url": "https://www.cohabitat.io",
     "icon": "https://favicons.githubusercontent.com/www.cohabitat.io",
     "slug": "co-habitat-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -263,6 +267,8 @@
     "timeWeek": 136,
     "timeMonth": 154,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
