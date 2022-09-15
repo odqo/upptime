@@ -22,19 +22,19 @@
     "url": "https://www.odqo.ch",
     "icon": "https://favicons.githubusercontent.com/www.odqo.ch",
     "slug": "odqo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 272,
-    "timeDay": 311,
-    "timeWeek": 312,
-    "timeMonth": 327,
+    "timeDay": 304,
+    "timeWeek": 309,
+    "timeMonth": 326,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-09-15": 31
+      "2022-09-15": 39
     }
   },
   {
@@ -123,19 +123,19 @@
     "url": "https://mapping.co-lab-research.net/",
     "icon": "https://favicons.githubusercontent.com/mapping.co-lab-research.net",
     "slug": "co-lab-research",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 132,
-    "timeDay": 195,
-    "timeWeek": 166,
-    "timeMonth": 150,
+    "timeDay": 193,
+    "timeWeek": 168,
+    "timeMonth": 151,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2022-09-15": 31
+      "2022-09-15": 39
     }
   },
   {
@@ -256,19 +256,19 @@
     "url": "https://www.cohabitat.io",
     "icon": "https://favicons.githubusercontent.com/www.cohabitat.io",
     "slug": "co-habitat-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 203,
-    "timeWeek": 153,
-    "timeMonth": 158,
+    "timeDay": 187,
+    "timeWeek": 152,
+    "timeMonth": 157,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2022-09-15": 31
+      "2022-09-15": 39
     }
   }
 ]
