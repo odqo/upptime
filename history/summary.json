@@ -174,15 +174,15 @@
     "url": "https://www.urbamonde.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbamonde.org.ico",
     "slug": "urbamonde-org",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "98.68%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 749,
-    "timeDay": 814,
-    "timeWeek": 711,
+    "timeDay": 813,
+    "timeWeek": 713,
     "timeMonth": 714,
     "timeYear": 749,
     "dailyMinutesDown": {
@@ -247,7 +247,7 @@
       "2022-06-30": 117,
       "2022-06-29": 107,
       "2022-06-28": 86,
-      "2022-06-27": 76
+      "2022-06-27": 38
     }
   },
   {
