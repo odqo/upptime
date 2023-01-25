@@ -44,11 +44,11 @@
     "url": "https://www.lafabriquecirculaire.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.lafabriquecirculaire.ch.ico",
     "slug": "lafabriquecirculaire-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1649,
     "timeDay": 4500,
@@ -56,7 +56,7 @@
     "timeMonth": 1963,
     "timeYear": 1661,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
+      "2023-01-25": 2,
       "2022-11-28": 29,
       "2022-11-22": 18,
       "2022-10-28": 24,
@@ -120,10 +120,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acade-agro.ch.ico",
     "slug": "acade-agro-ch",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1094,
     "timeDay": 4799,
@@ -131,7 +131,7 @@
     "timeMonth": 1553,
     "timeYear": 1102,
     "dailyMinutesDown": {
-      "2023-01-25": 23,
+      "2023-01-25": 19,
       "2022-12-16": 78,
       "2022-04-14": 36
     }
@@ -163,9 +163,9 @@
     "slug": "art-werk-ch",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1206,
     "timeDay": 7921,
@@ -173,7 +173,6 @@
     "timeMonth": 1962,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2023-01-25": 14,
       "2022-12-16": 78,
       "2022-04-14": 36
     }
@@ -183,11 +182,11 @@
     "url": "https://www.urbamonde.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbamonde.org.ico",
     "slug": "urbamonde-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.53%",
     "time": 748,
     "timeDay": 724,
@@ -195,7 +194,7 @@
     "timeMonth": 742,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
+      "2023-01-25": 1,
       "2023-01-17": 19,
       "2023-01-12": 55,
       "2023-01-11": 28,
@@ -277,9 +276,9 @@
     "url": "https://www.co-habitat.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.co-habitat.net.ico",
     "slug": "co-habitat-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -288,7 +287,9 @@
     "timeWeek": 1148,
     "timeMonth": 1138,
     "timeYear": 1077,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "CoHabitat.io",
