@@ -120,9 +120,9 @@
     "slug": "acade-agro-ch",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 1055,
     "timeDay": 981,
@@ -130,7 +130,7 @@
     "timeMonth": 1116,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2023-01-25": 11,
+      "2023-01-25": 14,
       "2022-12-16": 78,
       "2022-04-14": 36
     }
@@ -160,19 +160,19 @@
     "url": "https://www.art-werk.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.art-werk.ch.ico",
     "slug": "art-werk-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 1137,
-    "timeDay": 1063,
-    "timeWeek": 1170,
-    "timeMonth": 1165,
-    "timeYear": 1144,
+    "time": 1197,
+    "timeDay": 12819,
+    "timeWeek": 4096,
+    "timeMonth": 1896,
+    "timeYear": 1206,
     "dailyMinutesDown": {
-      "2023-01-25": 10,
+      "2023-01-25": 13,
       "2022-12-16": 78,
       "2022-04-14": 36
     }
@@ -183,10 +183,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.urbamonde.org.ico",
     "slug": "urbamonde-org",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.31%",
+    "uptime": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.52%",
     "time": 748,
     "timeDay": 784,
@@ -194,7 +194,6 @@
     "timeMonth": 743,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
       "2023-01-17": 19,
       "2023-01-12": 55,
       "2023-01-11": 28,
@@ -268,7 +267,7 @@
       "2022-07-07": 92,
       "2022-07-06": 83,
       "2022-07-04": 25,
-      "2022-07-03": 26
+      "2022-07-03": 67
     }
   },
   {
