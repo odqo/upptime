@@ -54,7 +54,7 @@
     "timeDay": 1545,
     "timeWeek": 1703,
     "timeMonth": 1662,
-    "timeYear": 1700,
+    "timeYear": 1702,
     "dailyMinutesDown": {
       "2023-01-25": 40,
       "2022-11-28": 29,
@@ -79,7 +79,7 @@
     "timeDay": 1372,
     "timeWeek": 1470,
     "timeMonth": 1620,
-    "timeYear": 2002,
+    "timeYear": 2003,
     "dailyMinutesDown": {
       "2023-01-25": 23,
       "2022-11-16": 423,
@@ -183,19 +183,19 @@
     "url": "https://www.urbamonde.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbamonde.org.ico",
     "slug": "urbamonde-org",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "97.88%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.51%",
     "time": 733,
-    "timeDay": 756,
+    "timeDay": 750,
     "timeWeek": 738,
     "timeMonth": 662,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2023-03-27": 74,
+      "2023-03-27": 75,
       "2023-03-26": 140,
       "2023-03-15": 15,
       "2023-03-14": 74,
@@ -261,7 +261,7 @@
       "2022-09-18": 58,
       "2022-09-15": 21,
       "2022-09-13": 21,
-      "2022-09-12": 48
+      "2022-09-12": 26
     }
   },
   {
