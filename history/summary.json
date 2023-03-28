@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.odqo.ch.ico",
     "slug": "odqo",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -183,18 +183,19 @@
     "url": "https://www.urbamonde.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbamonde.org.ico",
     "slug": "urbamonde-org",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "97.88%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.51%",
     "time": 733,
-    "timeDay": 742,
-    "timeWeek": 740,
+    "timeDay": 744,
+    "timeWeek": 756,
     "timeMonth": 662,
     "timeYear": 715,
     "dailyMinutesDown": {
+      "2023-03-28": 0,
       "2023-03-27": 74,
       "2023-03-26": 140,
       "2023-03-15": 15,
@@ -261,7 +262,7 @@
       "2022-09-18": 58,
       "2022-09-15": 21,
       "2022-09-13": 21,
-      "2022-09-12": 48
+      "2022-09-12": 26
     }
   },
   {
