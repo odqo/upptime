@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fromagerieamstutz.ch.ico",
     "slug": "fromagerieamstutz-ch",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -181,15 +181,15 @@
     "url": "https://www.urbamonde.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbamonde.org.ico",
     "slug": "urbamonde-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "58.09%",
+    "uptimeDay": "58.06%",
     "uptimeWeek": "93.83%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "99.42%",
-    "time": 716,
-    "timeDay": 607,
-    "timeWeek": 658,
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "99.43%",
+    "time": 715,
+    "timeDay": 608,
+    "timeWeek": 659,
     "timeMonth": 697,
     "timeYear": 711,
     "dailyMinutesDown": {
@@ -252,8 +252,7 @@
       "2022-10-17": 54,
       "2022-10-16": 16,
       "2022-10-13": 40,
-      "2022-10-08": 17,
-      "2022-10-06": 27
+      "2022-10-08": 17
     }
   },
   {
