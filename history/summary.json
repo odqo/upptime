@@ -181,9 +181,9 @@
     "url": "https://www.urbamonde.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbamonde.org.ico",
     "slug": "urbamonde-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "42.37%",
+    "uptimeDay": "42.34%",
     "uptimeWeek": "83.60%",
     "uptimeMonth": "95.50%",
     "uptimeYear": "99.37%",
@@ -229,8 +229,7 @@
       "2023-01-02": 32,
       "2023-01-01": 40,
       "2022-12-29": 17,
-      "2022-12-28": 3,
-      "2022-12-20": 15
+      "2022-12-28": 3
     }
   },
   {
