@@ -182,9 +182,9 @@
     "slug": "urbamonde-org",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "91.89%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "92.03%",
     "uptimeYear": "99.28%",
     "time": 706,
     "timeDay": 703,
@@ -192,7 +192,7 @@
     "timeMonth": 683,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2023-06-04": 24,
+      "2023-06-04": 18,
       "2023-06-03": 18,
       "2023-05-30": 25,
       "2023-05-23": 48,
@@ -202,7 +202,7 @@
       "2023-05-07": 819,
       "2023-05-06": 752,
       "2023-05-05": 846,
-      "2023-05-04": 251
+      "2023-05-04": 297
     }
   },
   {
@@ -213,7 +213,7 @@
     "status": "up",
     "uptime": "93.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "50.13%",
+    "uptimeWeek": "50.67%",
     "uptimeMonth": "51.96%",
     "uptimeYear": "90.49%",
     "time": 1278,
