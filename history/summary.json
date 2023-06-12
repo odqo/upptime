@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fromagerieamstutz.ch.ico",
     "slug": "fromagerieamstutz-ch",
     "status": "up",
-    "uptime": "97.77%",
+    "uptime": "97.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -176,15 +176,15 @@
     "url": "https://www.urbamonde.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbamonde.org.ico",
     "slug": "urbamonde-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "98.67%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 707,
-    "timeDay": 848,
-    "timeWeek": 783,
+    "timeDay": 830,
+    "timeWeek": 780,
     "timeMonth": 755,
     "timeYear": 708,
     "dailyMinutesDown": {
@@ -200,7 +200,7 @@
       "2023-05-07": 819,
       "2023-05-06": 752,
       "2023-05-05": 846,
-      "2023-05-04": 234
+      "2023-05-04": 197
     }
   },
   {
