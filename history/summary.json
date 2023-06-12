@@ -176,18 +176,19 @@
     "url": "https://www.urbamonde.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.urbamonde.org.ico",
     "slug": "urbamonde-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 707,
-    "timeDay": 912,
-    "timeWeek": 769,
+    "timeDay": 880,
+    "timeWeek": 768,
     "timeMonth": 755,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2023-06-12": 0,
       "2023-06-05": 47,
       "2023-06-04": 18,
       "2023-06-03": 18,
@@ -199,7 +200,7 @@
       "2023-05-07": 819,
       "2023-05-06": 752,
       "2023-05-05": 846,
-      "2023-05-04": 251
+      "2023-05-04": 234
     }
   },
   {
@@ -208,7 +209,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.co-habitat.net.ico",
     "slug": "co-habitat-net",
     "status": "up",
-    "uptime": "93.25%",
+    "uptime": "93.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "51.96%",
