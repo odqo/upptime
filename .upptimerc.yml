@@ -17,12 +17,6 @@ sites:
     url: https://mapping.co-lab-research.net/
   - name: art-werk.ch
     url: https://www.art-werk.ch
-  - name: urbamonde.org
-    url: https://www.urbamonde.org
-  - name: co-habitat.net
-    url: https://www.co-habitat.net
-  - name: CoHabitat.io
-    url: https://www.cohabitat.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
