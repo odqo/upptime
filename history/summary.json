@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 63,
-    "timeWeek": 75,
+    "timeDay": 67,
+    "timeWeek": 73,
     "timeMonth": 106,
     "timeYear": 119,
     "dailyMinutesDown": {
@@ -33,10 +33,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 151,
-    "timeWeek": 575,
-    "timeMonth": 496,
+    "time": 379,
+    "timeDay": 29,
+    "timeWeek": 418,
+    "timeMonth": 478,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -51,17 +51,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1807,
-    "timeDay": 1448,
-    "timeWeek": 1987,
-    "timeMonth": 2132,
-    "timeYear": 1825,
+    "time": 1806,
+    "timeDay": 1563,
+    "timeWeek": 1973,
+    "timeMonth": 2113,
+    "timeYear": 1824,
     "dailyMinutesDown": {
       "2023-10-27": 8,
       "2023-07-12": 46,
       "2023-07-11": 50,
-      "2023-06-15": 39,
-      "2023-01-25": 40
+      "2023-06-15": 39
     }
   },
   {
@@ -75,14 +74,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1776,
-    "timeDay": 1477,
-    "timeWeek": 1817,
-    "timeMonth": 1848,
+    "time": 1775,
+    "timeDay": 1392,
+    "timeWeek": 1818,
+    "timeMonth": 1841,
     "timeYear": 1743,
-    "dailyMinutesDown": {
-      "2023-01-25": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fromagerie-de-marsens.ch",
@@ -95,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 239,
-    "timeWeek": 480,
+    "time": 439,
+    "timeDay": 332,
+    "timeWeek": 478,
     "timeMonth": 427,
-    "timeYear": 440,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -113,14 +110,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1145,
-    "timeDay": 856,
-    "timeWeek": 1157,
-    "timeMonth": 1199,
+    "time": 1144,
+    "timeDay": 852,
+    "timeWeek": 1127,
+    "timeMonth": 1194,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2023-04-27": 23,
-      "2023-01-25": 41
+      "2023-04-27": 23
     }
   },
   {
@@ -135,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 37,
-    "timeWeek": 168,
-    "timeMonth": 133,
+    "timeDay": 93,
+    "timeWeek": 116,
+    "timeMonth": 134,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -153,15 +149,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1237,
-    "timeDay": 985,
-    "timeWeek": 1273,
-    "timeMonth": 1317,
+    "timeDay": 986,
+    "timeWeek": 1241,
+    "timeMonth": 1313,
     "timeYear": 1267,
     "dailyMinutesDown": {
       "2023-05-18": 27,
       "2023-05-04": 24,
-      "2023-01-30": 135,
-      "2023-01-25": 22
+      "2023-01-30": 135
     }
   }
 ]
