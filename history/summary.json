@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fromagerieamstutz.ch.ico",
     "slug": "fromagerieamstutz-ch",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -142,9 +142,9 @@
     "url": "https://www.art-werk.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.art-werk.ch.ico",
     "slug": "art-werk-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -154,6 +154,7 @@
     "timeMonth": 1247,
     "timeYear": 1194,
     "dailyMinutesDown": {
+      "2024-02-14": 0,
       "2023-05-18": 27,
       "2023-05-04": 24
     }
