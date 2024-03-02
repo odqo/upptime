@@ -68,18 +68,20 @@
     "url": "https://www.fromagerieamstutz.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.fromagerieamstutz.ch.ico",
     "slug": "fromagerieamstutz-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1774,
+    "time": 1775,
     "timeDay": 1643,
     "timeWeek": 1668,
     "timeMonth": 1653,
     "timeYear": 1747,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-02": 0
+    }
   },
   {
     "name": "fromagerie-de-marsens.ch",
