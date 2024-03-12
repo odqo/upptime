@@ -68,18 +68,19 @@
     "url": "https://www.fromagerieamstutz.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.fromagerieamstutz.ch.ico",
     "slug": "fromagerieamstutz-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1731,
+    "time": 1732,
     "timeDay": 1799,
     "timeWeek": 1763,
     "timeMonth": 1703,
     "timeYear": 1750,
     "dailyMinutesDown": {
+      "2024-03-12": 1,
       "2024-03-02": 9
     }
   },
