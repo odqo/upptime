@@ -76,9 +76,9 @@
     "url": "https://www.fromagerieamstutz.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.fromagerieamstutz.ch.ico",
     "slug": "fromagerieamstutz-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -88,6 +88,7 @@
     "timeMonth": 1679,
     "timeYear": 1748,
     "dailyMinutesDown": {
+      "2024-07-08": 0,
       "2024-03-14": 10,
       "2024-03-12": 8,
       "2024-03-02": 9
