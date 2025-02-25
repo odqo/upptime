@@ -17,8 +17,6 @@ sites:
     url: https://www.acade-agro.ch
   - name: Co-lab Research
     url: https://mapping.co-lab-research.net/
-  - name: art-werk.ch
-    url: https://www.art-werk.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
