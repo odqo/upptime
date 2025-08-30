@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 89,
-    "timeWeek": 90,
+    "timeDay": 95,
+    "timeWeek": 89,
     "timeMonth": 86,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -38,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 337,
-    "timeWeek": 514,
-    "timeMonth": 387,
-    "timeYear": 386,
+    "timeDay": 463,
+    "timeWeek": 490,
+    "timeMonth": 385,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -51,15 +51,15 @@
     "slug": "lafabriquecirculaire-ch",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "80.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.98%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.75%",
-    "time": 2596,
-    "timeDay": 2723,
-    "timeWeek": 2386,
-    "timeMonth": 2173,
-    "timeYear": 2902,
+    "time": 2598,
+    "timeDay": 2715,
+    "timeWeek": 2389,
+    "timeMonth": 2170,
+    "timeYear": 2891,
     "dailyMinutesDown": {
       "2025-08-28": 300,
       "2025-08-27": 306,
@@ -72,8 +72,7 @@
       "2024-09-05": 7,
       "2024-09-03": 36,
       "2024-09-02": 17,
-      "2024-09-01": 48,
-      "2024-08-30": 18
+      "2024-09-01": 48
     }
   },
   {
@@ -87,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1724,
-    "timeDay": 2104,
-    "timeWeek": 1789,
-    "timeMonth": 1732,
-    "timeYear": 1716,
+    "time": 1725,
+    "timeDay": 2320,
+    "timeWeek": 1790,
+    "timeMonth": 1737,
+    "timeYear": 1718,
     "dailyMinutesDown": {
       "2024-10-25": 11
     }
@@ -107,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 373,
-    "timeWeek": 478,
-    "timeMonth": 573,
-    "timeYear": 443,
+    "time": 432,
+    "timeDay": 762,
+    "timeWeek": 498,
+    "timeMonth": 588,
+    "timeYear": 444,
     "dailyMinutesDown": {}
   },
   {
@@ -126,10 +125,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1107,
-    "timeDay": 1360,
-    "timeWeek": 1207,
-    "timeMonth": 1098,
-    "timeYear": 1109,
+    "timeDay": 1493,
+    "timeWeek": 1224,
+    "timeMonth": 1101,
+    "timeYear": 1110,
     "dailyMinutesDown": {
       "2024-12-15": 27,
       "2024-10-17": 7
@@ -146,10 +145,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 110,
-    "timeWeek": 191,
-    "timeMonth": 169,
+    "time": 147,
+    "timeDay": 238,
+    "timeWeek": 179,
+    "timeMonth": 171,
     "timeYear": 150,
     "dailyMinutesDown": {}
   }
